@@ -3,9 +3,11 @@
 ![image](https://user-images.githubusercontent.com/37132897/158112510-14004a21-ac4a-4247-b129-7bc2cddf6e53.png)
 - a의 값이 3이기 때문에, a가 3이 되는 case 3의 경우가 true가 되므로 출력문이 실행되어 3이 출력된다.
 
-      // a의 값 3으로 지정
+      // 변수 a의 값 3으로 지정
       
       var a = 3;
+      
+      // Switch 문
       
       switch (a) {
       
